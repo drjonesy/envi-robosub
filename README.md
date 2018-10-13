@@ -1,4 +1,13 @@
 # envi-robosub
 ENVI RoboSub Documentation
 
- dkj dfkj fkdj kf j
+- This is a list
+
+* This a list as well
+
+1. I'm a number list
+2. me too.
+
+**I'm Bold**
+
+*Italic Here*
